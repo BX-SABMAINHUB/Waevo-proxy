@@ -1,0 +1,6 @@
+node_modules/
+public/uv/
+public/baremux/
+public/epoxy/
+.env
+dist/
